@@ -3,7 +3,7 @@
 I'm Mah, web developer with a focus on React and Django, looking to make the world a better place and always trying to learn new things and better myself in the process. I'm currently working on projects for MPRJ, including parquet-digital a web app that is meant to facilitate prosecutor's job by highlighting the most important data and automating a lot of the processes needed to unburden their workload, and it has recently won a prize! If you want to contact me to ask questions or maybe colaborate on something, feel free, I don't bite.
 Pronouns: He/She/They
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majard)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majard&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **majard/majard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
