@@ -32,10 +32,6 @@ Open to collaboration, interesting problems, and systems that actually need to w
 Feel free to say hi — I don’t bite… usually. 
 Still a playful dork, just with more scars and better systems.
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majard&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **majard/majard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
