@@ -29,8 +29,9 @@ React Native · TypeScript · FastAPI · Python · PostgreSQL · SQLite · Next.
 Pronouns: He/She/They
 
 Open to collaboration, interesting problems, and systems that actually need to work. 
+
+After all this time I am still a playful dork, just with more scars and better systems.
 Feel free to say hi — I don’t bite… usually. 
-Still a playful dork, just with more scars and better systems.
 
 <!--
 **majard/majard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
